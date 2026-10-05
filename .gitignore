@@ -1,0 +1,17 @@
+node_modules/
+.next/
+out/
+build/
+.env
+.env.local
+.env*.local
+*.tsbuildinfo
+next-env.d.ts
+.DS_Store
+__pycache__/
+*.pyc
+.venv/
+
+# local demo recordings / scratch frames (1.4 GB)
+demo/
+.freebuff/
